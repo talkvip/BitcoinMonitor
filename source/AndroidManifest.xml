@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.btcm"
+    android:versionCode="65"
+    android:versionName="2.4.1">
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="16" />
+
+    <application
+        android:label="ViewPagerIndicator Sample"
+        android:icon="@drawable/icon">
+
+        <activity
+            android:name=".Main"
+            android:label="Bitcoin Monitor"
+            android:theme="@style/StyledIndicators">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

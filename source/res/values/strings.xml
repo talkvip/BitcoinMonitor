@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bitcoin Monitor</string>
+    <string name="menu_monitor">Monitor</string>
+    <string name="menu_kline">K Line</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_about">About</string>
+
+    <string name="mtgox_name">"MTGOX"</string>
+    <string name="bitcc_name">"BTCCN"</string>
+    <string name="update_price">"Update"</string>
+
+</resources>
