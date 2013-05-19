@@ -1,12 +1,20 @@
-AndroidAppTrial
-===============
+BitcoinMonitor
+==============
 
-Just a trial program for android app learning :)
+A monitor for bitcoin Market.
 
 
+How to build this project
+=========================
 
-Contact
-=======
+1. IntelliJ IDEA
+
+	+ File -> Import project -> Select this project's root
+	+ Choose "Create project from existing source" -> next -> ... 
+	+ Finish	
+
+Contact us
+==========
 
 vodmaker@gmail.com
 
