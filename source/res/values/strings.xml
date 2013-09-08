@@ -6,8 +6,8 @@
     <string name="menu_setting">Setting</string>
     <string name="menu_about">About</string>
 
-    <string name="mtgox_name">"MTGOX"</string>
-    <string name="bitcc_name">"BTCCN"</string>
-    <string name="update_price">"Update"</string>
+    <string name="mtgox">"MTGOX"</string>
+    <string name="btcc">"BTCCN"</string>
+    <string name="update">"Update"</string>
 
 </resources>
